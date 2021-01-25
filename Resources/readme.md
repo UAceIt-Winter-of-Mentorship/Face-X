@@ -25,3 +25,12 @@ Some research papers
 http://iraj.in/journal/journal_file/journal_pdf/4-54-140014639841-44.pdf
 
 http://www.ijcst.com/vol71/1/4-manav-bansal.pdf
+
+
+Articles on Face Detection
+
+https://realpython.com/traditional-face-detection-python/
+
+Face Detection using OPenCV Python- video
+
+https://youtu.be/LopYA64KmdE
