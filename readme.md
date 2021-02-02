@@ -8,5 +8,6 @@ Requirement-
   Then write the required code for face detection
   And then run your code.
   
-  
+  Output-
+  https://github.com/SanjuktaSunam/Face-X/blob/main/Screenshot%20(3).png?raw=true
   
