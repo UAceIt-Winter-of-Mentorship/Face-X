@@ -7,8 +7,7 @@ Requirement-
   Add any image file like .jpg having face in your project , I used mitthi.jpg
   Then write the required code for face detection
   And then run your code.
-  
-  Output-
+  After running the code the output will be as follows--
   https://github.com/SanjuktaSunam/Face-X/blob/main/Screenshot%20(3).png?raw=true
   
   
