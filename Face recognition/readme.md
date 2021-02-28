@@ -7,7 +7,7 @@ It is a type of visual descriptor used for classification in computer vision.
 It is a simple and very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number.
 
 
-# Images
+## Images
 
 <p align="center"><img src="https://github.com/Vinamrata1086/Face-X/blob/master/Recognition-Algorithms/Facial%20Recognition%20using%20LBPH/images/pic1.png"><br>
 Divide face images into R( for example R = 3 x 3 = 9 Regions) local regions to extract LBP histograms.</p>
@@ -22,20 +22,20 @@ Three neighborhood examples used to define a texture and calculate a local binar
 </p>
     
 
-#### face recognition part 1:
+### face recognition part 1:
 This code collects the 300 pictures through webcam and stores the pictures in the given data path. 
 
-#### face recognition part 2:
+### face recognition part 2:
 This code uses the pictures that was collected in face recognition part 1, to recognise the face.
 
 
-### Installation
+## Installation
 - pip install numpy
 - pip install opencv-python
 - pip install skimage
 
 
-### Requirements 
+## Requirements 
 - jupyter lab/ pycharm
 - opencv
 - haarcascade_frontalface_default.xml file
