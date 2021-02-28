@@ -22,11 +22,13 @@ Three neighborhood examples used to define a texture and calculate a local binar
 </p>
     
 
+
 ### face recognition part 1:
 This code collects the 300 pictures through webcam and stores the pictures in the given data path. 
 
 ### face recognition part 2:
 This code uses the pictures that was collected in face recognition part 1, to recognise the face.
+
 
 
 ## Installation
