@@ -4,7 +4,8 @@ UAceIt-Winter-of-Mentorship
 
 ## *LBPH (Local Binary Patterns Histogram)*
 It is a type of visual descriptor used for classification in computer vision.
-It is a simple and very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number.The steps involved to achieve this are:
+It is a simple and very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number.
+The steps involved to achieve this are:
 * creating dataset
 * face acquisition
 * feature extraction
