@@ -1,7 +1,7 @@
 This folder contains algorithm for snapchat filter which is implemented in pycharm.
 
 Implementatio--
-1] It contains some filter images like - cigar.png , sunglass.png , mustache.png .
+1] It contains some filter images like - cigar.png , Sunglass.png , mustache.png .
 2] Contains a code which is Main_code.py in which python code is written for implementation of snapchat filter in realtime images.
    When it is executed then snapchat filters are used in realtime face.
    
